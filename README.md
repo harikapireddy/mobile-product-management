@@ -1,15 +1,15 @@
 # mobile-product-management
 React native application for managing products
 
-In the project directory, you can run:
 
-# npm install
-To install all dependencies of project.
+# To install all dependencies of project.
+From the project directory, you can run: npm-install 
 
-# react-native run-android
-To debug it on android.
+
+# To debug it on android.
+From the project directory, you can run: react-native run-android 
 
 Before running make sure you start the emulator and run the react-native start command
 
-# react-native run-ios
-To debug it on ios.
+# To debug it on ios.
+From the project directory, you can run: react-native run-ios 
